@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\bin\Debug\net8.0\Ogani.DAL.deps.json
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\bin\Debug\net8.0\Ogani.DAL.runtimeconfig.json
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\bin\Debug\net8.0\Ogani.DAL.dll
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\bin\Debug\net8.0\Ogani.DAL.pdb
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\Ogani.DAL.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\Ogani.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\Ogani.DAL.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\Ogani.DAL.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\Ogani.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\Ogani.DAL.dll
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\refint\Ogani.DAL.dll
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\Ogani.DAL.pdb
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\Ogani.DAL.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Ogani\Ogani.DAL\obj\Debug\net8.0\ref\Ogani.DAL.dll
